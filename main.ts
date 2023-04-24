@@ -20,4 +20,5 @@ basic.forever(function () {
     radio.sendValue("RLTl", RLTl)
     radio.sendValue("RLTr", RLTr)
     radio.sendValue("RLD", RLD)
+    basic.pause(50)
 })
